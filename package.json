@@ -1,0 +1,20 @@
+{
+  "name": "submission-grader",
+  "version": "0.0.0",
+  "description": "submission-grader ========================",
+  "main": "submission-grader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amdurgin/submission-grader.git"
+  },
+  "author": "Alex Durgin",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "702ce32cbe780e305cec9a3e5349fcb9f124e2f3",
+  "bugs": {
+    "url": "https://github.com/amdurgin/submission-grader/issues"
+  }
+}
